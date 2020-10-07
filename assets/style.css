@@ -1,0 +1,33 @@
+.bg-primary{
+    padding-right: 120px;
+    border-radius: 25px;
+     padding: 20px;
+    width: 150px;
+    height: 250px;
+}
+
+.card-body{
+    color:white;
+    border-style: groove;
+
+}
+
+.margin{
+    margin-left: 255px;
+    margin-top: 50px
+}
+
+
+.bg{
+    background-color: lightgray;
+    color: black;
+    border-radius: 25px;
+    padding: 20px;
+   width: 150px;
+   height: 300px;
+   border-style: groove;
+}
+
+.hide{
+    display:none;
+}
